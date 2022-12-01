@@ -3,7 +3,7 @@ https://gitlab.com/gilgil/sns/-/wikis/pcap-programming/pcap-programming
 https://www.tcpdump.org/pcap.html  
 같이 알면 좋은 개념 - Struct Bit Field  
 예시  
-```c
+```c++
 // bit_fields1.cpp
 // compile with: /LD
 struct Date {
