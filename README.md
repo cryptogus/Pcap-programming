@@ -13,4 +13,7 @@ struct Date {
    unsigned short nYear     : 8;    // 0..100 (8 bits)
 };
 ```
-출처 - https://learn.microsoft.com/ko-kr/cpp/cpp/cpp-bit-fields?view=msvc-170
+출처 - https://learn.microsoft.com/ko-kr/cpp/cpp/cpp-bit-fields?view=msvc-170   
+
+## pcapdevice-test 폴더는 따로 실행해보길 바란다.
+폴더 내부 파일(코드파일)들을 제외하고는 다른 파일들과는 전혀 상관없음.
